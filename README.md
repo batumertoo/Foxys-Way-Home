@@ -11,8 +11,4 @@ This is a 2D Platformer game developed as part of the Introduction to Game Progr
 ## Controls
 - **Move:** A / D or Arrow Keys
 - **Jump:** Space
-
-## Screenshots
-
-![In-Game Screenshot](Screenshots/screenshot_1.png)
-![In-Game Screenshot](Screenshots/screenshot_2.png)
+- **Dash:** Ctrl
